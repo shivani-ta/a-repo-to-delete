@@ -28,6 +28,13 @@ This is just to practice
 ## TJ
 
 
+## Dr. Case's Class
+
+one
+two
+three
+
+
 
 
 
