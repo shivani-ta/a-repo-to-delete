@@ -18,7 +18,8 @@ This is just to practice
 
 ## Stephen
 
-
+* Javascript 
+* HTML
 
 
 ## Blake 
