@@ -14,12 +14,12 @@ This is just to practice
 
 ## Shivani
 
-
+computer science
+india
 
 ## Stephen
 
-* Javascript 
-* HTML
+
 
 
 ## Blake 
